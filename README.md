@@ -4,8 +4,8 @@ This project is part of my internship at **Elevate Labs**, where I was assigned 
 
 ## 🌐 Live Preview
 
-> (Optional: [Click here to view the live site](https://yourusername.github.io/simple-blog-bootstrap))  
-> *(Replace the link with your GitHub Pages link if hosted)*
+> [Click here to view the live site](https://shyamsalekar.github.io/simple-blog-bootstrap/)  
+
 
 ---
 
@@ -26,13 +26,6 @@ This project is part of my internship at **Elevate Labs**, where I was assigned 
 - 🎨 **Bootstrap 5 (CDN)**
 - 🌐 **Bootstrap Icons (CDN)**
 - 🔎 VS Code, Live Server
-
----
-
-## 📷 Screenshots
-
-> Add screenshots here if needed using the format:
-
 
 ---
 
@@ -61,8 +54,7 @@ This project helped me learn:
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/simple-blog-bootstrap.git
-
+   git clone https://github.com/ShyamSalekar/simple-blog-bootstrap/
 
 ## 📬 Contact
 Shyam Salekar
